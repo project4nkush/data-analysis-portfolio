@@ -1,4 +1,4 @@
-# Sales Performance Review (Excel)
+# Superstore Performance Analysis (Excel)
 
 ## Files
 - `data/` – raw dataset

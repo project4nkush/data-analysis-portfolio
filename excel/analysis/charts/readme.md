@@ -1,1 +1,0 @@
-Charts summarizing analysis

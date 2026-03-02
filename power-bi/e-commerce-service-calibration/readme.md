@@ -1,9 +1,9 @@
 Service-Level Calibration & Risk Modeling in E-Commerce Logistics
-Objective
+Objective: 
   Evaluate whether the company’s 24.5-day delivery promise is appropriately calibrated and identify operational drivers of late deliveries.
   The analysis focuses on percentile-based reliability, policy sensitivity, and variance decomposition across shipment size and geography.
 
-Tools & Methods
+Tools & Methods: 
   Power BI
   Relational Data Modeling
   DAX Measures
@@ -11,7 +11,7 @@ Tools & Methods
   Policy Sensitivity Simulation
   Variance Decomposition (Size × Geography)
 
-Data Model
+Data Model: 
 Constructed a structured model linking:
   Customers → Orders
   Orders → OrderItems
@@ -27,7 +27,7 @@ Built dynamic measures:
   P90 Delivery
   Late % under alternative promise scenarios
 
-Key Findings
+Key Findings: 
   Avg Estimated Delivery: 24.5 days
   Avg Actual Delivery: 12.4 days
   Late Rate: 6%
